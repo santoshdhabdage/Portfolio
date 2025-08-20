@@ -1,0 +1,51 @@
+﻿@model pr2.Models.ContactForm
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<link rel="stylesheet" href="~/css/contactinbox.css" />
+
+<section class="contact-section py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center fw-bold mb-4">Get In Touch</h2>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-lg border-0 rounded-4">
+                    <div class="card-body p-4">
+                        <form asp-action="Index" method="post">
+                            <div class="mb-3">
+                                <label asp-for="Name" class="form-label">Name</label>
+                                <input asp-for="Name" class="form-control" placeholder="Your name" />
+                                <span asp-validation-for="Name" class="text-danger small"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Email" class="form-label">Email</label>
+                                <input asp-for="Email" class="form-control" placeholder="your@email.com" />
+                                <span asp-validation-for="Email" class="text-danger small"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Message" class="form-label">Message</label>
+                                <textarea asp-for="Message" class="form-control" rows="5" placeholder="Write your message..."></textarea>
+                                <span asp-validation-for="Message" class="text-danger small"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100 fw-bold">Send Message</button>
+
+                            @if (ViewBag.Message != null)
+                            {
+                                <div class="alert alert-success mt-3">@ViewBag.Message</div>
+                            }
+                            @if (ViewBag.Error != null)
+                            {
+                                <div class="alert alert-danger mt-3">@ViewBag.Error</div>
+                            }
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,802 @@
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\appsettings.Development.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\appsettings.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.staticwebassets.runtime.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.staticwebassets.endpoints.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.exe
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.deps.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.runtimeconfig.json
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.dll
+D:\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.pdb
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.AssemblyInfoInputs.cache
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.AssemblyInfo.cs
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.csproj.CoreCompileInputs.cache
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.MvcApplicationPartsAssemblyInfo.cache
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cache
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cs
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\bundle\pr2.styles.css
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\projectbundle\pr2.bundle.scp.css
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\e76ua26iko-b9sayid5wm.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\zft9ykbmlh-61n19gt1b8.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\cy6l51xzyy-xtxxf3hu2r.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\arrxqajtb9-bqjiyaj88i.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mu7w7jpbrq-c2jlpeoesf.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\n89u9shiws-erw9l3u2r3.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\99x140gx05-aexeepp0ev.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8hqgedcdhq-d7shbmvgxk.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\6f0z2oojg2-ausgxo2sd3.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\m2z3z4rv6f-k8d9w2qqmf.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4m1v1x37wo-cosvhxvwiu.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\euegtfwgwd-ub07r2b239.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\fe6gjf8p5x-fvhpjtyr6v.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\6gzveewtqo-b7pk76d08c.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\h1jtsk11g7-fsbi9cje9m.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ke6h522sda-rzd6atqjts.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\x8grbnp80r-ee0r1s7dh0.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vgsj52vt4x-dxx9fxp4il.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gm3d2cfdow-jd9uben2k1.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\u5l55aoxdz-khv3u5hwcm.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\0w7t7d9ekb-r4e9w2rdcm.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ljk8dg5j40-lcd1t2u6c8.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\kfbhw0fhbd-c2oey78nd0.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\kaaowj3gf0-tdbxkamptv.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\edngj9v83v-j5mq2jizvt.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\x4ix6kx2xa-06098lyss8.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\j94ae00v0x-nvvlpmu67g.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\cxz1f68yu2-s35ty4nyc5.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\n83r2r1ago-pj5nd1wqec.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4o9b4son84-46ein0sx1k.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\7cgif80qas-v0zj4ognzu.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\yktx9a5ny7-37tfw0ft22.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mi10rqjod7-hrwsygsryq.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\u7jlkth20j-pk9g2wxc8p.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\xu1zy0rvsf-ft3s53vfgj.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gk37deianm-6cfz1n2cew.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\68y9fz5vst-6pdc2jztkx.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8yoffc25zl-493y06b0oq.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\1464tciwm4-iovd86k7lj.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\w6r75utja6-vr1egmr9el.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\bsehfqbqah-kbrnm935zg.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\3mu1zvqaqn-jj8uyg4cgr.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\rsyt3j1wi9-y7v9cxd14o.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\blpeu9hlqg-notf2xhcfb.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\catn42atcf-h1s4sie4z3.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\fvmy860xwy-63fj8s7r0e.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\3sf7b3pg6l-0j3bgjxly4.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mk0gv9xgwy-47otxtyo56.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\zz3qgo9w6t-4v8eqarkd7.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ij1akyyx5j-356vix0kms.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\dihfzbsluq-83jwlth58m.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\1in1izubfj-mrlpezrjn3.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\0otfvbb7iv-lzl9nlhx6b.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\h4aq414hf4-ag7o75518u.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vdc2pjrt67-x0q3zqp4vz.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vmpygeiabu-0i3buxo5is.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\l2zx18ag16-o1o13a6vjx.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\449q3ywq3l-ttgo8qnofa.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4vw1fbgkli-2z0ns9nrw6.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\khinemf9l0-muycvpuwrr.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\b7x9vqxg1a-87fc7y1x7t.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8wl9vm1kda-mlv21k5csn.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\56jyhd6urc-5xjalgtjlt.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mcsndwjq12-5xjalgtjlt.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.build.json
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.development.json
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.pr2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.pr2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.build.pr2.props
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.pr2.props
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.pr2.props
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.pack.json
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.dll
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\refint\pr2.dll
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.pdb
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.genruntimeconfig.cache
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\ref\pr2.dll
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\41izoiblli-mzw6jbaglw.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gkukn70khd-846nzojqku.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mvl7oheazn-ce5nwj0srk.gz
+D:\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ykv8z4qk97-sur2qecm60.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\appsettings.Development.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\appsettings.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.staticwebassets.runtime.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.staticwebassets.endpoints.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.exe
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.deps.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.runtimeconfig.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pr2.pdb
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.AssemblyInfoInputs.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.AssemblyInfo.cs
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.csproj.CoreCompileInputs.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.MvcApplicationPartsAssemblyInfo.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cs
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\bundle\pr2.styles.css
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\scopedcss\projectbundle\pr2.bundle.scp.css
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\41izoiblli-7kqf3lbyfv.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gkukn70khd-p75vaw1ygb.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ykv8z4qk97-sur2qecm60.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mvl7oheazn-exvlt7szos.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\e76ua26iko-b9sayid5wm.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\zft9ykbmlh-61n19gt1b8.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\cy6l51xzyy-xtxxf3hu2r.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\arrxqajtb9-bqjiyaj88i.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mu7w7jpbrq-c2jlpeoesf.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\n89u9shiws-erw9l3u2r3.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\99x140gx05-aexeepp0ev.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8hqgedcdhq-d7shbmvgxk.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\6f0z2oojg2-ausgxo2sd3.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\m2z3z4rv6f-k8d9w2qqmf.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4m1v1x37wo-cosvhxvwiu.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\euegtfwgwd-ub07r2b239.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\fe6gjf8p5x-fvhpjtyr6v.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\6gzveewtqo-b7pk76d08c.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\h1jtsk11g7-fsbi9cje9m.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ke6h522sda-rzd6atqjts.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\x8grbnp80r-ee0r1s7dh0.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vgsj52vt4x-dxx9fxp4il.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gm3d2cfdow-jd9uben2k1.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\u5l55aoxdz-khv3u5hwcm.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\0w7t7d9ekb-r4e9w2rdcm.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ljk8dg5j40-lcd1t2u6c8.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\kfbhw0fhbd-c2oey78nd0.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\kaaowj3gf0-tdbxkamptv.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\edngj9v83v-j5mq2jizvt.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\x4ix6kx2xa-06098lyss8.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\j94ae00v0x-nvvlpmu67g.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\cxz1f68yu2-s35ty4nyc5.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\n83r2r1ago-pj5nd1wqec.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4o9b4son84-46ein0sx1k.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\7cgif80qas-v0zj4ognzu.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\yktx9a5ny7-37tfw0ft22.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mi10rqjod7-hrwsygsryq.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\u7jlkth20j-pk9g2wxc8p.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\xu1zy0rvsf-ft3s53vfgj.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\gk37deianm-6cfz1n2cew.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\68y9fz5vst-6pdc2jztkx.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8yoffc25zl-493y06b0oq.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\1464tciwm4-iovd86k7lj.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\w6r75utja6-vr1egmr9el.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\bsehfqbqah-kbrnm935zg.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\3mu1zvqaqn-jj8uyg4cgr.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\rsyt3j1wi9-y7v9cxd14o.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\blpeu9hlqg-notf2xhcfb.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\catn42atcf-h1s4sie4z3.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\fvmy860xwy-63fj8s7r0e.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\3sf7b3pg6l-0j3bgjxly4.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mk0gv9xgwy-47otxtyo56.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\zz3qgo9w6t-4v8eqarkd7.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\ij1akyyx5j-356vix0kms.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\dihfzbsluq-83jwlth58m.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\1in1izubfj-mrlpezrjn3.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\0otfvbb7iv-lzl9nlhx6b.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\h4aq414hf4-ag7o75518u.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vdc2pjrt67-x0q3zqp4vz.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\vmpygeiabu-0i3buxo5is.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\l2zx18ag16-o1o13a6vjx.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\449q3ywq3l-ttgo8qnofa.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\4vw1fbgkli-2z0ns9nrw6.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\khinemf9l0-muycvpuwrr.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\b7x9vqxg1a-87fc7y1x7t.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\8wl9vm1kda-mlv21k5csn.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\56jyhd6urc-5xjalgtjlt.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\compressed\mcsndwjq12-5xjalgtjlt.gz
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.build.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.development.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.pr2.Microsoft.AspNetCore.StaticWebAssets.props
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.pr2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.build.pr2.props
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.pr2.props
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.pr2.props
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.pack.json
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\refint\pr2.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.pdb
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.genruntimeconfig.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\ref\pr2.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Azure.Core.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Azure.Identity.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Humanizer.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\Mono.TextTemplating.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.ClientModel.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.CodeDom.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Composition.Convention.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Composition.Hosting.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Composition.Runtime.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Drawing.Common.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Formats.Asn1.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Memory.Data.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Runtime.Caching.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Security.Permissions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Text.Json.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\System.Windows.Extensions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.csproj.AssemblyReference.cache
+\\10.90.1.23\mri department data\IT\IT PROGRAMME DATA\Santosh\task\Prac2025\Asp.netCore\pr2\obj\Debug\net9.0\pr2.csproj.Up2Date
+D:\task\pr2\bin\Debug\net9.0\appsettings.Development.json
+D:\task\pr2\bin\Debug\net9.0\appsettings.json
+D:\task\pr2\bin\Debug\net9.0\pr2.staticwebassets.endpoints.json
+D:\task\pr2\bin\Debug\net9.0\pr2.staticwebassets.runtime.json
+D:\task\pr2\bin\Debug\net9.0\pr2.exe
+D:\task\pr2\bin\Debug\net9.0\pr2.deps.json
+D:\task\pr2\bin\Debug\net9.0\pr2.runtimeconfig.json
+D:\task\pr2\bin\Debug\net9.0\pr2.dll
+D:\task\pr2\bin\Debug\net9.0\pr2.pdb
+D:\task\pr2\bin\Debug\net9.0\Azure.Core.dll
+D:\task\pr2\bin\Debug\net9.0\Azure.Identity.dll
+D:\task\pr2\bin\Debug\net9.0\Humanizer.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\task\pr2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\task\pr2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\task\pr2\bin\Debug\net9.0\System.ClientModel.dll
+D:\task\pr2\bin\Debug\net9.0\System.CodeDom.dll
+D:\task\pr2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\task\pr2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\task\pr2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\task\pr2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\task\pr2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\task\pr2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\task\pr2\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\task\pr2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\task\pr2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\task\pr2\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\task\pr2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\task\pr2\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\task\pr2\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\task\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\task\pr2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\task\pr2\obj\Debug\net9.0\pr2.csproj.AssemblyReference.cache
+D:\task\pr2\obj\Debug\net9.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\pr2\obj\Debug\net9.0\pr2.AssemblyInfoInputs.cache
+D:\task\pr2\obj\Debug\net9.0\pr2.AssemblyInfo.cs
+D:\task\pr2\obj\Debug\net9.0\pr2.csproj.CoreCompileInputs.cache
+D:\task\pr2\obj\Debug\net9.0\pr2.MvcApplicationPartsAssemblyInfo.cache
+D:\task\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cache
+D:\task\pr2\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cs
+D:\task\pr2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\task\pr2\obj\Debug\net9.0\scopedcss\bundle\pr2.styles.css
+D:\task\pr2\obj\Debug\net9.0\scopedcss\projectbundle\pr2.bundle.scp.css
+D:\task\pr2\obj\Debug\net9.0\compressed\41izoiblli-7kqf3lbyfv.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\gkukn70khd-p75vaw1ygb.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\ykv8z4qk97-sur2qecm60.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\mvl7oheazn-exvlt7szos.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\e76ua26iko-b9sayid5wm.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\zft9ykbmlh-61n19gt1b8.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\cy6l51xzyy-xtxxf3hu2r.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\arrxqajtb9-bqjiyaj88i.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\mu7w7jpbrq-c2jlpeoesf.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\n89u9shiws-erw9l3u2r3.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\99x140gx05-aexeepp0ev.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\8hqgedcdhq-d7shbmvgxk.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\6f0z2oojg2-ausgxo2sd3.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\m2z3z4rv6f-k8d9w2qqmf.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\4m1v1x37wo-cosvhxvwiu.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\euegtfwgwd-ub07r2b239.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\fe6gjf8p5x-fvhpjtyr6v.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\6gzveewtqo-b7pk76d08c.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\h1jtsk11g7-fsbi9cje9m.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\ke6h522sda-rzd6atqjts.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\x8grbnp80r-ee0r1s7dh0.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\vgsj52vt4x-dxx9fxp4il.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\gm3d2cfdow-jd9uben2k1.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\u5l55aoxdz-khv3u5hwcm.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\0w7t7d9ekb-r4e9w2rdcm.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\ljk8dg5j40-lcd1t2u6c8.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\kfbhw0fhbd-c2oey78nd0.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\kaaowj3gf0-tdbxkamptv.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\edngj9v83v-j5mq2jizvt.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\x4ix6kx2xa-06098lyss8.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\j94ae00v0x-nvvlpmu67g.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\cxz1f68yu2-s35ty4nyc5.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\n83r2r1ago-pj5nd1wqec.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\4o9b4son84-46ein0sx1k.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\7cgif80qas-v0zj4ognzu.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\yktx9a5ny7-37tfw0ft22.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\mi10rqjod7-hrwsygsryq.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\u7jlkth20j-pk9g2wxc8p.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\xu1zy0rvsf-ft3s53vfgj.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\gk37deianm-6cfz1n2cew.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\68y9fz5vst-6pdc2jztkx.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\8yoffc25zl-493y06b0oq.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\1464tciwm4-iovd86k7lj.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\w6r75utja6-vr1egmr9el.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\bsehfqbqah-kbrnm935zg.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\3mu1zvqaqn-jj8uyg4cgr.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\rsyt3j1wi9-y7v9cxd14o.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\blpeu9hlqg-notf2xhcfb.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\catn42atcf-h1s4sie4z3.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\fvmy860xwy-63fj8s7r0e.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\3sf7b3pg6l-0j3bgjxly4.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\mk0gv9xgwy-47otxtyo56.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\zz3qgo9w6t-4v8eqarkd7.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\ij1akyyx5j-356vix0kms.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\dihfzbsluq-83jwlth58m.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\1in1izubfj-mrlpezrjn3.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\0otfvbb7iv-lzl9nlhx6b.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\h4aq414hf4-ag7o75518u.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\vdc2pjrt67-x0q3zqp4vz.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\vmpygeiabu-0i3buxo5is.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\l2zx18ag16-o1o13a6vjx.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\449q3ywq3l-ttgo8qnofa.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\4vw1fbgkli-2z0ns9nrw6.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\khinemf9l0-muycvpuwrr.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\b7x9vqxg1a-87fc7y1x7t.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\8wl9vm1kda-mlv21k5csn.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\56jyhd6urc-5xjalgtjlt.gz
+D:\task\pr2\obj\Debug\net9.0\compressed\mcsndwjq12-5xjalgtjlt.gz
+D:\task\pr2\obj\Debug\net9.0\staticwebassets.build.json
+D:\task\pr2\obj\Debug\net9.0\staticwebassets.development.json
+D:\task\pr2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\task\pr2\obj\Debug\net9.0\pr2.csproj.Up2Date
+D:\task\pr2\obj\Debug\net9.0\pr2.dll
+D:\task\pr2\obj\Debug\net9.0\refint\pr2.dll
+D:\task\pr2\obj\Debug\net9.0\pr2.pdb
+D:\task\pr2\obj\Debug\net9.0\pr2.genruntimeconfig.cache
+D:\task\pr2\obj\Debug\net9.0\ref\pr2.dll
+D:\task\pr2\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\task\pr2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\task\pr2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\task\pr2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\task\pr2\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\task\pr2_latest\bin\Debug\net9.0\appsettings.Development.json
+D:\task\pr2_latest\bin\Debug\net9.0\appsettings.json
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.staticwebassets.endpoints.json
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.staticwebassets.runtime.json
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.exe
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.deps.json
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.runtimeconfig.json
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pr2.pdb
+D:\task\pr2_latest\bin\Debug\net9.0\Azure.Core.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Azure.Identity.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Humanizer.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\task\pr2_latest\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.ClientModel.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.CodeDom.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Memory.Data.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\task\pr2_latest\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\task\pr2_latest\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.csproj.AssemblyReference.cache
+D:\task\pr2_latest\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.AssemblyInfoInputs.cache
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.AssemblyInfo.cs
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.csproj.CoreCompileInputs.cache
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.MvcApplicationPartsAssemblyInfo.cache
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cache
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.RazorAssemblyInfo.cs
+D:\task\pr2_latest\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\task\pr2_latest\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\task\pr2_latest\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\task\pr2_latest\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\task\pr2_latest\obj\Debug\net9.0\scopedcss\bundle\pr2.styles.css
+D:\task\pr2_latest\obj\Debug\net9.0\scopedcss\projectbundle\pr2.bundle.scp.css
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\41izoiblli-7kqf3lbyfv.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\gkukn70khd-p75vaw1ygb.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\ykv8z4qk97-sur2qecm60.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\mvl7oheazn-exvlt7szos.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\zft9ykbmlh-61n19gt1b8.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\cy6l51xzyy-xtxxf3hu2r.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\arrxqajtb9-bqjiyaj88i.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\mu7w7jpbrq-c2jlpeoesf.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\n89u9shiws-erw9l3u2r3.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\99x140gx05-aexeepp0ev.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\8hqgedcdhq-d7shbmvgxk.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\6f0z2oojg2-ausgxo2sd3.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\m2z3z4rv6f-k8d9w2qqmf.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\4m1v1x37wo-cosvhxvwiu.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\euegtfwgwd-ub07r2b239.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\fe6gjf8p5x-fvhpjtyr6v.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\6gzveewtqo-b7pk76d08c.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\h1jtsk11g7-fsbi9cje9m.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\ke6h522sda-rzd6atqjts.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\x8grbnp80r-ee0r1s7dh0.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\vgsj52vt4x-dxx9fxp4il.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\gm3d2cfdow-jd9uben2k1.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\u5l55aoxdz-khv3u5hwcm.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\0w7t7d9ekb-r4e9w2rdcm.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\ljk8dg5j40-lcd1t2u6c8.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\kfbhw0fhbd-c2oey78nd0.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\kaaowj3gf0-tdbxkamptv.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\edngj9v83v-j5mq2jizvt.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\x4ix6kx2xa-06098lyss8.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\j94ae00v0x-nvvlpmu67g.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\cxz1f68yu2-s35ty4nyc5.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\n83r2r1ago-pj5nd1wqec.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\4o9b4son84-46ein0sx1k.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\7cgif80qas-v0zj4ognzu.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\yktx9a5ny7-37tfw0ft22.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\mi10rqjod7-hrwsygsryq.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\u7jlkth20j-pk9g2wxc8p.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\xu1zy0rvsf-ft3s53vfgj.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\gk37deianm-6cfz1n2cew.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\68y9fz5vst-6pdc2jztkx.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\8yoffc25zl-493y06b0oq.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\1464tciwm4-iovd86k7lj.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\w6r75utja6-vr1egmr9el.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\bsehfqbqah-kbrnm935zg.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\3mu1zvqaqn-jj8uyg4cgr.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\rsyt3j1wi9-y7v9cxd14o.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\blpeu9hlqg-notf2xhcfb.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\catn42atcf-h1s4sie4z3.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\fvmy860xwy-63fj8s7r0e.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\3sf7b3pg6l-0j3bgjxly4.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\mk0gv9xgwy-47otxtyo56.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\zz3qgo9w6t-4v8eqarkd7.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\ij1akyyx5j-356vix0kms.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\dihfzbsluq-83jwlth58m.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\1in1izubfj-mrlpezrjn3.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\0otfvbb7iv-lzl9nlhx6b.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\h4aq414hf4-ag7o75518u.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\vdc2pjrt67-x0q3zqp4vz.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\vmpygeiabu-0i3buxo5is.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\l2zx18ag16-o1o13a6vjx.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\449q3ywq3l-ttgo8qnofa.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\4vw1fbgkli-2z0ns9nrw6.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\khinemf9l0-muycvpuwrr.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\b7x9vqxg1a-87fc7y1x7t.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\8wl9vm1kda-mlv21k5csn.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\56jyhd6urc-5xjalgtjlt.gz
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\mcsndwjq12-5xjalgtjlt.gz
+D:\task\pr2_latest\obj\Debug\net9.0\staticwebassets.build.json
+D:\task\pr2_latest\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\task\pr2_latest\obj\Debug\net9.0\staticwebassets.development.json
+D:\task\pr2_latest\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.csproj.Up2Date
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.dll
+D:\task\pr2_latest\obj\Debug\net9.0\refint\pr2.dll
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.pdb
+D:\task\pr2_latest\obj\Debug\net9.0\pr2.genruntimeconfig.cache
+D:\task\pr2_latest\obj\Debug\net9.0\ref\pr2.dll
+D:\task\pr2_latest\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\task\pr2_latest\obj\Debug\net9.0\compressed\e76ua26iko-b9sayid5wm.gz
